@@ -22,3 +22,5 @@ The way you'll do this at work is by exporting images directly from Figma — we
 **Deployment**
 
 The webiste is deployed to my GitHub linked below.
+
+https://Bwilson959.github.io/se_project_spots
