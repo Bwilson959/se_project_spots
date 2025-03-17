@@ -41,6 +41,11 @@
 
 .profile__edit-btn {
   margin-top: auto;
+  border-style: none;
+  background-color: #fcf5e5;
+  gap: 8px;
+  padding: 0;
+  align-self: flex-start;
 }
 
 .profile__add-btn {

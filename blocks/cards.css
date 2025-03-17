@@ -6,6 +6,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  line-height: 1.2;
+  font-weight: 500;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .cards__list {
