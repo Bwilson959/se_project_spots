@@ -17,7 +17,7 @@ This project was designed with the intent of creating a responsive website that 
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+Sample images of what the project looks like can be found in the images file under "spots.png" and "spotsmobile.png"
 
 **Deployment**
 
